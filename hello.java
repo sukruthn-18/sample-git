@@ -1,5 +1,6 @@
 
 void test()
 {
-print("false")
+
+  print("final");
 }
