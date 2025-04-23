@@ -1,1 +1,3 @@
-this is java file
+void method(){
+  print("true");
+}
