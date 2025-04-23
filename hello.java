@@ -1,1 +1,5 @@
-this is java file
+
+void test()
+{
+print("false")
+}
